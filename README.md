@@ -1,4 +1,7 @@
-# Curso de Angular ALURA: torne sua aplicação interativa e personalizada com animações
+# Memorando
+
+Curso de Angular ALURA: torne sua aplicação interativa e personalizada com animações
+![Screenshot 2023-07-17](https://github.com/jpedrosantosb/angular-animacoes/assets/69656085/99af9a43-4dea-4084-93be-06eb41d45063)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
