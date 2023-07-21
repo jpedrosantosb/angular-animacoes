@@ -17,10 +17,7 @@ export const highlightedStateTrigger = trigger('highlightedState', [
 ])
 
 export const shownStateTrigger = trigger('shownState', [
-  state('shown', style({
-
-  })),
-  transition('void => shown', [
+  transition(':enter', [
     style({
       opacity: 0
     }),
@@ -28,7 +25,7 @@ export const shownStateTrigger = trigger('shownState', [
       opacity: 1
     }))
   ]),
-  transition('show => void', [
+  transition(':leave', [
     animate(500, style({
       opacity: 0
     }))
