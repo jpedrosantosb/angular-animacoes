@@ -34,6 +34,48 @@
       "statusFinalizado": true,
       "categoria": "Estudos",
       "prioridade": "Alta"
+    },
+    {
+      "id": 7,
+      "descricao": "Alimentar os gatos",
+      "categoria": "Casa",
+      "statusFinalizado": true,
+      "prioridade": "Alta"
+    },
+    {
+      "id": 8,
+      "descricao": "Refatorar código",
+      "categoria": "Trabalho",
+      "statusFinalizado": true,
+      "prioridade": "Normal"
+    },
+    {
+      "id": 9,
+      "descricao": "Fazer curso de animações",
+      "statusFinalizado": true,
+      "categoria": "Estudos",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 10,
+      "descricao": "Regar as plantas",
+      "statusFinalizado": true,
+      "categoria": "Casa",
+      "prioridade": "Normal"
+    },
+    {
+      "id": 11,
+      "descricao": "Pagar academia",
+      "statusFinalizado": true,
+      "categoria": "Casa",
+      "prioridade": "Normal"
+    },
+    {
+      "id": 12,
+      "descricao": "Assistir live",
+      "statusFinalizado": true,
+      "categoria": "Estudos",
+      "prioridade": "Alta"
     }
   ]
 }
